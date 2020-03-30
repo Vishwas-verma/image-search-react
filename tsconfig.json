@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "tslint": "tslint -c tslint.json -p tsconfig.json"
+  },
   "compilerOptions": {
     "target": "es5",
     "lib": [
